@@ -1,0 +1,12 @@
+[Unit]
+Description=Telegram Bot Service
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/root/cover_letter_bot_async
+ExecStart=python3 /root/cover_letter_bot_async/main.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+# Usage: pip install -r requirements.txt
+
+python-telegram-bot==20.1
+asgiref==3.6.0
+pdfplumber==0.8.0
+emoji==2.2.0
+beautifulsoup4==4.11.2
+openai
