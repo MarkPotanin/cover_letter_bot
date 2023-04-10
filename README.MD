@@ -3,7 +3,7 @@
 The Cover Letter Bot helps you write a unique cover letter for each job application. Here are the steps:
 
 * Send your CV in PDF or plain text format
-	*In case you send a PDF file, the bot will parse it into plain text
+	* In case you send a PDF file, the bot will parse it into plain text
 * Send a link to the job description
 	* The text from the job page will be parsed using beautifulsoup
 * The text of your CV and job description will be sent to ChatGPT, which will return a cover letter.
