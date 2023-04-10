@@ -28,7 +28,7 @@ To set up a new bot, you need to write to BotFather in Telegram - `@botfather`. 
 
 ### 3. Cloud Server
 
-After obtaining the Telegram API key and OpenAI API key, you can run your bot locally with python `main.py`. For production purposes, it's better to place the bot on a cloud server. I used `http://linode.com` (which offers a $100 trial period).
+After obtaining the Telegram API key and OpenAI API key, you can run your bot locally with `python main.py`. For production purposes, it's better to place the bot on a cloud server. I used `http://linode.com` (which offers a $100 trial period).
 
 ### 4. Service
 
